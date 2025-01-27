@@ -1,0 +1,4 @@
+Ligne 1 du fichier 1
+Ligne 2 du fichier 1
+Ligne 1 du fichier 2
+Ligne 2 du fichier 2

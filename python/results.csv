@@ -1,0 +1,5 @@
+re.match,Date valide :,25-12-1999
+re.search,Le jour 25 trouvé.
+re.findall,Dates valides extraites :,"01-12-2023, 15-05-1995, 03-09-2000"
+re.sub,Date modifiée avec des barres obliques :,25/12/1999
+re.compile,Dates valides extraites avec re.compile :,
