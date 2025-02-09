@@ -1,0 +1,12 @@
+[
+    {
+        "nom": "pomme",
+        "prix": 10,
+        "quantite": 11
+    },
+    {
+        "nom": "banane",
+        "prix": 15,
+        "quantite": 10
+    }
+]
